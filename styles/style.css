@@ -1,0 +1,24 @@
+.header {
+	height: 150px;
+    border-top: 2px yellow solid;
+}
+.logo {
+	width: 12%;
+    padding: 10px;
+    margin-left: 20px;
+	float: left;
+}
+.title {
+	color: #04039b;
+    margin-left: 200px;
+    margin-top: 35px;
+}
+
+.nav-style {
+	background-color: #009688;
+    color: #fff;
+    padding: 10px;
+	margin-left: -3px;
+	margin-top: 40px;
+    width: 100%;
+}
